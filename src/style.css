@@ -29,7 +29,8 @@ section {
 }
 
 h1,
-h2 {
+h2,
+.galerie-intro {
   margin-bottom: 1rem;
 
   font-family: 'Great Vibes', fantasy;
@@ -37,12 +38,17 @@ h2 {
   font-size: 3rem;
 }
 
-h2 {
+h2,
+.galerie-intro {
   text-align: center;
 }
 
 h3 {
   text-transform: uppercase;
+}
+
+.galerie-intro {
+  padding-top: 20rem;
 }
 
 header {
